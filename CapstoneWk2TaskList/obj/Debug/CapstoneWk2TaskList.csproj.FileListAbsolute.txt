@@ -1,0 +1,7 @@
+c:\users\rayab\source\repos\CapstoneWk2TaskList\CapstoneWk2TaskList\obj\Debug\CapstoneWk2TaskList.csprojResolveAssemblyReference.cache
+c:\users\rayab\source\repos\CapstoneWk2TaskList\CapstoneWk2TaskList\obj\Debug\CapstoneWk2TaskList.csproj.CoreCompileInputs.cache
+c:\users\rayab\source\repos\CapstoneWk2TaskList\CapstoneWk2TaskList\bin\Debug\CapstoneWk2TaskList.exe.config
+c:\users\rayab\source\repos\CapstoneWk2TaskList\CapstoneWk2TaskList\bin\Debug\CapstoneWk2TaskList.exe
+c:\users\rayab\source\repos\CapstoneWk2TaskList\CapstoneWk2TaskList\bin\Debug\CapstoneWk2TaskList.pdb
+c:\users\rayab\source\repos\CapstoneWk2TaskList\CapstoneWk2TaskList\obj\Debug\CapstoneWk2TaskList.exe
+c:\users\rayab\source\repos\CapstoneWk2TaskList\CapstoneWk2TaskList\obj\Debug\CapstoneWk2TaskList.pdb
